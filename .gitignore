@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# dotenv environment variables file
+.env
+backend/dist/
+
+
+dist
+
+tests-e2e/cypress/screenshots/
+tests-e2e/cypress/videos/
+
+.vercel
